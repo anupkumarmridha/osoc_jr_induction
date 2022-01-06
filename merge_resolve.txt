@@ -1,0 +1,4 @@
+first we create a conflict between main branch and branch1.
+then we check why the conflict occure by the command git diff,and we saw that merge conflict occure for modify redme.md file.
+then we modify redme.md file by manualy and resolve the merge conflict.
+afterthat finally we able to merge the branch1 and main branch
