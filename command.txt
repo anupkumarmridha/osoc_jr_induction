@@ -1,0 +1,27 @@
+
+Main Porcelain Commands
+  
+   am                   Apply a series of patches from a mailbox
+   archive              Create an archive of files from a named tree
+   bisect               Use binary search to find the commit that introduced a bug
+   
+   bundle               Move objects and refs by archive
+   
+   cherry-pick          Apply the changes introduced by some existing commits
+   
+   clean                Remove untracked files from the working tree
+   
+   
+   describe             Give an object a human readable name based on an available ref
+   diff                 Show changes between commits, commit and working tree, etc
+   fetch                Download objects and refs from another repository
+   
+   gc                   Cleanup unnecessary files and optimize the local repository
+  
+   gui                  A portable graphical interface to Git
+  
+   maintenance          Run tasks to optimize Git repository data
+  
+   mv                   Move or rename a file, a directory, or a symlink
+   
+  
