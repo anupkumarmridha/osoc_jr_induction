@@ -1,0 +1,20 @@
+
+   archive              Create an archive of files from a named tree
+   cherry-pick          Apply the changes introduced by some existing commits
+   diff                 Show changes between commits, commit and working tree, etc
+   gc                   Cleanup unnecessary files and optimize the local repository
+   grep                 Print lines matching a pattern
+   gui                  A portable graphical interface to Git
+   maintenance          Run tasks to optimize Git repository data
+   mv                   Move or rename a file, a directory, or a symlink
+   notes                Add or inspect object notes
+   range-diff           Compare two commit ranges (e.g. two versions of a branch)
+   reset                Reset current HEAD to the specified state
+   restore              Restore working tree files
+   revert               Revert some existing commits
+   shortlog             Summarize 'git log' output
+   show                 Show various types of objects
+ 
+ 
+
+  
